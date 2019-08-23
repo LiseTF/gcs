@@ -1,2 +1,3 @@
 Este é o segundo arquivo do nosso exemplo.
-Continuando aula de gerencia de configuração
+
+Vou alterar uma linha
